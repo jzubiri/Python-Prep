@@ -8,7 +8,7 @@
 
 4) Crear una variable que contenga tu nombre
 
-5) Crear una variable que contenga un número complejo
+5) Crear una variable que contenga un número complejo 432
 
 6) Mostrar el tipo de dato de la variable crada en el punto 5
 
